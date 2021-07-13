@@ -24,7 +24,12 @@ Project description:
 
 •	Delete all button deletes all the leads.
 
-Extension description link: chrome://extensions/?id=cfeaifflnhcldmndnglldfhfmgammhkb
+Extension Description link:
+chrome://extensions/?id=cfeaifflnhcldmndnglldfhfmgammhkb
+
+ZIP FOLDER:
+[Extension_zip.zip](https://github.com/NoumanSalik7/chrome_extension_project/files/6807653/Extension_zip.zip)
+
     
        
          
