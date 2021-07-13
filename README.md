@@ -2,14 +2,15 @@ Project Title: Lead Tracker
 
 Project description:
 
-	•	Lead tracker is an extension which is built to help salesteam of certain company to save the leads which they found on web.
-	•	It has three buttons namely: save input, save tab, delete all.
-        <img width="652" alt="Screenshot 2021-07-13 at 2 22 41 PM" src="https://user-images.githubusercontent.com/87074016/125424956-28834067-7971-40c7-b749-8249f30a8c64.png">
-  
+•	Lead tracker is an extension which is built to help salesteam of certain company to save the leads which they found on web.
+•	It has three buttons namely: save input, save tab, delete all.
+    
+    <img width="1680" alt="Screenshot 2021-07-13 at 2 45 41 PM" src="https://user-images.githubusercontent.com/87074016/125426248-1b282ccc-d817-4a89-9511-af127f452c67.png">
 
-  •	Save input button saves whatever user enters on the text field.
 
-     <img width="728" alt="Screenshot 2021-07-13 at 2 27 10 PM" src="https://user-images.githubusercontent.com/87074016/125425317-c3632800-76ce-404a-bbbf-9b10c7848e3c.png">
+   •	Save input button saves whatever user enters on the text field.
+
+    
 <img width="721" alt="Screenshot 2021-07-13 at 2 27 57 PM" src="https://user-images.githubusercontent.com/87074016/125425325-d6b55798-d2da-4de5-9b24-2ce5d07f4e1a.png">
 
 	•	Save tab button saves the current tab.
